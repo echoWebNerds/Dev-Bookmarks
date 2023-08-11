@@ -36,7 +36,9 @@ Map in Roadmap
 <h2>
   راه های ارتباطی 📞:
 </h2>
-<h3>
+<h5>
   Gmail : echowebnerds@gmail.com
-[LinkedIn :] (https://www.linkedin.com/groups/12869559/)
-</h3>
+  </h5>
+  <h5>
+LinkedIn : (https://www.linkedin.com/groups/12869559/)
+</h5>
