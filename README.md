@@ -44,7 +44,7 @@ Map in Roadmap
 <h5>
   ###📧 Gmail : echowebnerds@gmail.com
   </h5>
-  ###🌐 
-  <h5>
-LinkedIn : (https://www.linkedin.com/groups/12869559/)
-</h5>
+  
+  🌐 <h5>
+  LinkedIn : (https://www.linkedin.com/groups/12869559/)
+  </h5>
