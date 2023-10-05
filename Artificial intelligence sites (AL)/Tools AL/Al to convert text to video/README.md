@@ -2,7 +2,7 @@
   Video Generators
 </h1>
 
-![Screenshot from 2023-10-05 14-23-30](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/63875293-ac53-4e1d-8421-aee1e94da649)
+![Screenshot from 2023-10-05 16-10-55](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/61702929-cdbb-4cc1-8801-b4cb5d59aadc)
 
 
 1 - <a href="https://www.heygen.com/">HeyGen</a> <br>
