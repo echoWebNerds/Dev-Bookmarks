@@ -2,7 +2,7 @@
   Video Generators
 </h1>
 
-HeyGen   https://www.heygen.com/
+HeyGen   https://www.heygen.com/ <br>
 Canva   https://www.canva.com/
 Eightify   https://eightify.app/
 InVideo   https://invideo.io/
