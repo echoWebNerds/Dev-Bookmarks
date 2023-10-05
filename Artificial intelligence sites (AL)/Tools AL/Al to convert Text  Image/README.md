@@ -2,8 +2,7 @@
   Image Generators
 </h1>
 
-![Screenshot from 2023-10-05 14-29-43](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/5218b281-584b-4158-9bd2-ed9760ba4f7a)
-
+![Screenshot from 2023-10-05 16-12-34](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/a474edcf-4d07-41a9-b439-37828846f39c)
 
 
    1 - <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiz0dye9dyBAxV7lYMHHS4fA8wYABAAGgJlZg&gclid=Cj0KCQjwmvSoBhDOARIsAK6aV7hPGFtkpS7-TQSfMONFtDW0qOvDbt5k2h1iQGlFsZhFJyQfvxG0BV8aAp-HEALw_wcB&ohost=www.google.com&cid=CAESVeD2Ic4UyRQ8YCdy0XWUcZyxR3hejDVGibh8ZbHSiFSHiNJSqCJY8f6JZ6Oe0eXnO3fDKzPzF0pAAhK8PcFvF0Az2NaGxaKZXq8IZI25RiJ5woCIUMQ&sig=AOD64_3d8LdWAemF_pssqfHGzEY72pbmjg&q&adurl&ved=2ahUKEwjq4NSe9dyBAxW2_7sIHYgcDJQQ0Qx6BAgGEAE">Leonardo AI</a> <br>
