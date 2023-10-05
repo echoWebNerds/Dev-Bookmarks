@@ -17,6 +17,7 @@
 </h1>
 
 
+![Screenshot from 2023-10-05 16-14-35](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/00465618-10eb-40bb-8663-35ee5db35cd0)
 
   
   1 - <a href="https://lovo.ai/">Lovo.ai</a> <br>
