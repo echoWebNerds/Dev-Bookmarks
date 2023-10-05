@@ -2,7 +2,7 @@
   Music Generators
 </h1>
 
-![Screenshot from 2023-10-05 15-01-38](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/3a539440-e573-442f-9ca4-952a2a60c46f)
+![Screenshot from 2023-10-05 16-13-35](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/687171e1-62cc-43f7-a6af-b35da53769ea)
 
 
 
@@ -16,7 +16,6 @@
   Voice Generators
 </h1>
 
-![Screenshot from 2023-10-05 14-51-17](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/5b65ee1a-715b-44f6-a42b-9c0ce33b9814)
 
 
   
