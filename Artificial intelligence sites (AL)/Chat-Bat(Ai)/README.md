@@ -3,7 +3,7 @@
 </h1>
 
 
-![Screenshot from 2023-10-05 14-14-00](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/abba9cc5-b9d3-423e-8f6b-1c5a71f7300d)#pershian!
+![Screenshot from 2023-10-05 14-14-00](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/abba9cc5-b9d3-423e-8f6b-1c5a71f7300d)
 
 
 1 - <a href="https://www.anthropic.com/index/claude-2">Claude 2</a> <br>
