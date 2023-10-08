@@ -63,4 +63,4 @@
     <p>
       Tome.app is an AI-powered platform that helps businesses automate their document management processes. It uses natural language processing and machine learning algorithms to analyze documents and then provides automated tagging and categorization. Tome.app can be integrated with a variety of document management systems, making it a valuable tool for businesses looking to improve their document management operations.
     </p>
-    <br><hr>
+    <br>
