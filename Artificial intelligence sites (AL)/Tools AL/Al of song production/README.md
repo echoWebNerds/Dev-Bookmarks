@@ -52,7 +52,7 @@ Soundraw AI uses artificial intelligence to generate unique, royalty-free music 
     Replica is an AI-powered chatbot that uses natural language processing to have conversations with users. It can learn from previous conversations and adapt to the user's preferences and personality. This makes it ideal for providing personalized customer support, mental health support, and companionship.
   </p>
   <br><hr>
-  5 - <a href="https://www.googleadservices.com/">Speechify</a>
+  5 - <a href="https://speechify.com/">Speechify</a>
   <p>
     Speechify.ai is an AI-powered platform that converts text into speech and offers a range of features to enhance the reading experience. It can read text from any source, including eBooks, articles, and PDFs, and users can customize the speech by adjusting parameters such as speed, voice, and emphasis. This makes it ideal for people with reading difficulties, busy professionals, and anyone who wants to improve their reading efficiency.
   </p><br><hr>
