@@ -11,7 +11,11 @@
 AIVA uses deep learning algorithms and neural networks to analyze patterns and structures in existing music compositions. It then generates new music compositions in various styles, moods, and tempos based on this analysis. AIVA can also incorporate feedback from human composers to improve its output.
 </p>
 <br><hr>
-2 - <a href="https://welcome.ai/solution/amper">Amper AI</a> <br><hr>
+2 - <a href="https://welcome.ai/solution/amper">Amper AI</a>
+<p>
+Amper AI is a platform that uses artificial intelligence to generate custom music tracks based on user inputs such as genre, mood, and length. It also allows users to customize the generated tracks by adjusting various parameters such as tempo, key, and instrumentation. Amper AI's music can be used for various purposes such as background music for videos, podcasts, and other creative projects.
+</p>
+<br><hr>
 3 - <a href="https://soundraw.io/">Soundraw</a> 
 <p>
 Soundraw AI uses artificial intelligence to generate unique, royalty-free music tracks based on user inputs such as genre, mood, and length. It also allows users to customize the generated tracks by adjusting various parameters such as tempo and instrumentation. Soundraw AI's music can be used for various purposes such as background music for videos, podcasts, and other creative projects.
