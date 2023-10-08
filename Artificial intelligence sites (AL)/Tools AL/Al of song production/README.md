@@ -37,7 +37,11 @@ Soundraw AI uses artificial intelligence to generate unique, royalty-free music 
     Lovo.ai is an AI-powered platform that generates realistic voiceovers for various types of content, such as videos, podcasts, and commercials. It offers a wide range of voices and languages to choose from, and users can customize the voiceover by adjusting parameters such as tone, speed, and emphasis. This makes it ideal for enhancing the quality of audio content and saving time and resources.
   </p>
   <br><hr>
-  2 - <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjErYCN-tyBAxXtloMHHSXkBpAYABAAGgJlZg&gclid=Cj0KCQjwmvSoBhDOARIsAK6aV7iZj_TRsNzUSrtkmciYDf7hjZLXK1-J5hZMBWZVT3yKjKFo63Es49UaAu_4EALw_wcB&ohost=www.google.com&cid=CAESVeD2ejgN8PO-c2uUs4BCpseYfRL0gKEcMc91_JnXSR6eqMY5ym6XtZBk7I_AX0sDTGMYXRpFBA1y2nFXOzrJFCGWXifciHBiLYlSndfcNtywbKT0fFM&sig=AOD64_39HbHFsXZZpTgBSZJ0Y_B2YWGA2A&q&adurl&ved=2ahUKEwiP8PiM-tyBAxUym_0HHRXACtUQ0Qx6BAgNEAE">Murf</a> <br>
+  2 - <a href="https://www.googleadservices.com/pagead/">Murf</a> 
+  <p>
+    Murf is an AI-powered tool that helps users summarize long articles and documents quickly. It uses natural language processing to identify the most important information and presents it in a concise and easy-to-read format. This makes it ideal for busy professionals who need to stay informed but don't have time to read everything.
+  </p>
+  <br><hr>
   3 - <a href="https://play.ht/">Play.ht</a>
   <p>
     Play.ht is an AI-powered platform that converts text into lifelike speech. It offers a wide range of voices and languages to choose from, and users can customize the speech by adjusting parameters such as tone, speed, and emphasis. This makes it ideal for creating audio versions of written content, such as blog posts, articles, and eBooks.
