@@ -7,6 +7,7 @@
 
 1 - <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjX0t_N89yBAxWGvXcKHWo7ATUYABAAGgJlZg&gclid=Cj0KCQjwmvSoBhDOARIsAK6aV7gcFGkmSvqSQvX1XdifoZG6N7sGo_BKfF4FXCmXQNgm_Y-zBI4NSJIaAhU1EALw_wcB&ohost=www.google.com&cid=CAESVeD2v8VtVPL8sq4TJsb5J_EPOSBsxxg-GGdXtRc5H7xA3Q3ugwlV5MUvQkptfXtKaqPKgsn8Pl-6cU5jjQG-HQpfIKSwPvQy0wXpU4A8uElzaGs1Dg4&sig=AOD64_1E9V2ULCfDW-eg8QV2W7sJoEy5gg&q&adurl&ved=2ahUKEwi7gNbN89yBAxWGh_0HHcm6Aa8Q0Qx6BAgPEAE">Jasper</a> <br>
 Jasper is a copywriting assistant that uses AI to help you write better content. It can generate text, translate languages, and write different kinds of creative content. Jasper is still under development, but it has already been shown to be capable of performing a wide range of tasks <br>
+<hr>
 2 - <a href="https://blaze.today/">Textblaze</a> <br>
 Text Blaze is a powerful tool that can be used by anyone who wants to save time and improve their typing efficiency. It is especially useful for people who write a lot of emails, social media posts, or other types of repetitive text.<br>
 3 - <a href="https://www.copy.ai/">Copy AI</a> <br>
