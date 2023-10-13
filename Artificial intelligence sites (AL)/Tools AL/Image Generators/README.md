@@ -10,12 +10,12 @@
      Leonardo AI is an AI-powered content marketing platform that helps businesses create high-quality content at scale. It uses natural language processing and machine learning algorithms to analyze and understand the content needs of a business and then generates content that is optimized for search engines and social media. Leonardo AI can create blog posts, social media posts, product descriptions, and more, making it a valuable tool for businesses looking to improve their content marketing efforts.
    </p>
    <br><hr>
-    2 - <a href="https://www.midjourney.com/">Midjourney</a>
+    2 - <a href="https://imagine.art/">Midjourney</a>
     <p>
       Midjourney is an AI-powered platform that helps businesses improve their customer experience by providing personalized recommendations and insights. It uses machine learning algorithms to analyze customer data and behavior, and then provides recommendations on how to improve the customer experience. Midjourney can be integrated with a variety of customer engagement channels, including email, SMS, and chatbots, making it a versatile tool for businesses looking to improve their customer engagement.
     </p>
     <br><hr>
-    3 - <a href="https://www.bing.com/create">Bing create</a> 
+    3 - <a href="https://bing.com/create">Bing create</a> 
     <p>
       Bing Create is a set of AI-powered tools that help businesses create high-quality marketing materials, including social media posts, flyers, and videos. It uses machine learning algorithms to analyze the content needs of a business and then provides templates and design suggestions that are optimized for engagement and conversion. Bing Create is a valuable tool for businesses looking to improve their marketing efforts without the need for extensive design skills.
     </p>
@@ -30,12 +30,12 @@
       Microsoft Designer is an AI-powered tool that helps businesses create professional-looking designs for a variety of marketing materials, including social media posts, flyers, and presentations. It uses machine learning algorithms to analyze design trends and then provides templates and design suggestions that are optimized for engagement and conversion. Microsoft Designer is a valuable tool for businesses looking to improve their marketing efforts without the need for extensive design skills.
     </p>
     <br><hr>
-    6 - <a href="https://www.artbreeder.com/">Artbreeder</a>
+    6 - <a href="https://artbreeder.com/">Artbreeder</a>
     <p>
       Artbreeder is an AI-powered platform that allows users to create unique digital art using machine learning algorithms. It uses a combination of genetic algorithms and neural networks to generate new images based on user input. Artbreeder is a valuable tool for artists and designers looking to create unique and original digital art.
     </p>
     <br><hr>
-    7 - <a href="https://www.craiyon.com/">Craiyon</a>
+    7 - <a href="https://.craiyon.com/">Craiyon</a>
     <p>
       Craiyon is an AI-powered platform that helps businesses automate their customer service operations. It uses natural language processing and machine learning algorithms to analyze customer inquiries and then provides automated responses that are optimized for engagement and resolution. Craiyon can be integrated with a variety of customer engagement channels, including email, SMS, and chatbots, making it a versatile tool for businesses looking to improve their customer service operations.
     </p>
