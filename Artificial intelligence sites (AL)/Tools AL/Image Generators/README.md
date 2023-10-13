@@ -5,7 +5,7 @@
 ![Screenshot from 2023-10-05 16-12-34](https://github.com/echoWebNerds/Dev-Bookmarks/assets/122268379/a474edcf-4d07-41a9-b439-37828846f39c)
 
 
-   1 - <a href="https://www.googleadservices.com/">Leonardo AI</a>
+   1 - <a href="https://leonardo.ai/">Leonardo AI</a>
    <p>
      Leonardo AI is an AI-powered content marketing platform that helps businesses create high-quality content at scale. It uses natural language processing and machine learning algorithms to analyze and understand the content needs of a business and then generates content that is optimized for search engines and social media. Leonardo AI can create blog posts, social media posts, product descriptions, and more, making it a valuable tool for businesses looking to improve their content marketing efforts.
    </p>
